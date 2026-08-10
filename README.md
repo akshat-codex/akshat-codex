@@ -188,5 +188,28 @@ Building intelligent software systems with a focus on:
 <br><br>
 
 `Turning ideas into systems.`
+---
+
+## `> CONNECT`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/akshhatsrivastava/">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=0B0F19&labelColor=0B0F19" alt="LinkedIn">
+</a>
+
+<a href="mailto:akshsvt123@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge&logo=gmail&logoColor=0B0F19&labelColor=0B0F19" alt="Email">
+</a>
+
+<a href="https://github.com/akshat-codex">
+<img src="https://img.shields.io/badge/GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=0B0F19&labelColor=0B0F19" alt="GitHub">
+</a>
+
+<br><br>
+
+`OPEN TO BUILDING • COLLABORATING • LEARNING`
+
+</div>
 
 </div>

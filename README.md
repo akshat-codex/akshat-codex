@@ -2,20 +2,21 @@
 
 # ⚡ AKSHAT SRIVASTAVA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=BACKEND+DEVELOPER+%7C+AI+BUILDER;PYTHON+%7C+DJANGO+%7C+FASTAPI;AWS+%7C+DOCKER+%7C+KUBERNETES;BUILDING+INTELLIGENT+SYSTEMS." alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=BACKEND+DEVELOPER+%7C+AI+BUILDER;PYTHON+%7C+DJANGO+%7C+FASTAPI;AWS+%7C+DOCKER+%7C+KUBERNETES;BUILDING+INTELLIGENT+SYSTEMS." alt="Typing Animation">
 
 <br>
 
-`[ SYSTEM ONLINE ]` &nbsp; `⚡ BUILDING` &nbsp; `◉ INDIA`
+`[ SYSTEM ONLINE ]` &nbsp;&nbsp; `⚡ BUILDING` &nbsp;&nbsp; `◉ INDIA`
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=0B0F19&labelColor=0B0F19">
-<img src="https://img.shields.io/badge/DJANGO-00F7FF?style=for-the-badge&logo=django&logoColor=0B0F19&labelColor=0B0F19">
-<img src="https://img.shields.io/badge/FASTAPI-00F7FF?style=for-the-badge&logo=fastapi&logoColor=0B0F19&labelColor=0B0F19">
-<img src="https://img.shields.io/badge/AWS-00F7FF?style=for-the-badge&logo=amazonaws&logoColor=0B0F19&labelColor=0B0F19">
-<img src="https://img.shields.io/badge/DOCKER-00F7FF?style=for-the-badge&logo=docker&logoColor=0B0F19&labelColor=0B0F19">
-<img src="https://img.shields.io/badge/KUBERNETES-00F7FF?style=for-the-badge&logo=kubernetes&logoColor=0B0F19&labelColor=0B0F19">
+<img src="https://img.shields.io/badge/PYTHON-00F7FF?style=for-the-badge&logo=python&logoColor=0B0F19&labelColor=0B0F19" alt="Python">
+<img src="https://img.shields.io/badge/DJANGO-00F7FF?style=for-the-badge&logo=django&logoColor=0B0F19&labelColor=0B0F19" alt="Django">
+<img src="https://img.shields.io/badge/FASTAPI-00F7FF?style=for-the-badge&logo=fastapi&logoColor=0B0F19&labelColor=0B0F19" alt="FastAPI">
+<img src="https://img.shields.io/badge/AWS-00F7FF?style=for-the-badge&logo=amazonaws&logoColor=0B0F19&labelColor=0B0F19" alt="AWS">
+<img src="https://img.shields.io/badge/DOCKER-00F7FF?style=for-the-badge&logo=docker&logoColor=0B0F19&labelColor=0B0F19" alt="Docker">
+<img src="https://img.shields.io/badge/KUBERNETES-00F7FF?style=for-the-badge&logo=kubernetes&logoColor=0B0F19&labelColor=0B0F19" alt="Kubernetes">
+<img src="https://img.shields.io/badge/POSTGRESQL-00F7FF?style=for-the-badge&logo=postgresql&logoColor=0B0F19&labelColor=0B0F19" alt="PostgreSQL">
 
 </div>
 
@@ -24,15 +25,19 @@
 ## `> SYSTEM.IDENTITY`
 
 ```text
-NAME        :: Akshat Srivastava
-ROLE        :: Backend Developer
-SPECIALTY   :: AI • Backend • Cloud • Automation
-LOCATION    :: India
-
-MISSION     :: Build reliable systems that scale.
-STATUS      :: ONLINE
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  NAME        :: Akshat Srivastava                            │
+│  ROLE        :: Backend Developer                            │
+│  SPECIALTY   :: AI • Backend • Cloud • Automation            │
+│  LOCATION    :: India                                       │
+│                                                              │
+│  STATUS      :: ONLINE                                       │
+│  MISSION     :: Build reliable systems that scale.           │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 > CORE.SYSTEMS
-<table> <tr> <td width="50%">
+<table> <tr> <td width="50%" valign="top">
 ⚙️ BACKEND
 Python
 Django
@@ -41,7 +46,7 @@ Node.js
 REST APIs
 Celery
 Redis
-</td> <td width="50%">
+</td> <td width="50%" valign="top">
 ☁️ CLOUD / DEVOPS
 AWS
 Docker
@@ -49,13 +54,13 @@ Kubernetes
 Linux
 Git
 CI/CD
-</td> </tr> <tr> <td>
+</td> </tr> <tr> <td width="50%" valign="top">
 🗄️ DATA
 PostgreSQL
 MongoDB
 DynamoDB
 Redis
-</td> <td>
+</td> <td width="50%" valign="top">
 🤖 AI / AUTOMATION
 AI Systems
 NLP
@@ -69,10 +74,10 @@ BACKEND × AI × CLOUD
 
 Building intelligent software systems with a focus on:
 
-Scalability • Reliability • Automation • Performance
+SCALABILITY   RELIABILITY   AUTOMATION   PERFORMANCE
 
 <br>
-[ DESIGN ] → [ BUILD ] → [ TEST ] → [ DEBUG ] → [ SHIP ]
+[ DESIGN ] ──→ [ BUILD ] ──→ [ TEST ] ──→ [ DEBUG ] ──→ [ SHIP ]
 </div>
 > ENGINEERING.MINDSET
 01  Understand the system before changing it.
@@ -81,12 +86,25 @@ Scalability • Reliability • Automation • Performance
 04  Automate repetitive work.
 05  Measure → Debug → Improve.
 > GITHUB.ACTIVITY
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akshat-codex&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&ring_color=00F7FF" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-codex&layout=compact&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF" height="170"> </div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=akshat-codex&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&ring_color=00F7FF" alt="GitHub Stats"> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-codex&layout=compact&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=akshat-codex&hide_border=true&background=0B0F19&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"> </div>
 > CONTRIBUTION.MATRIX
-<div align="center"> <img src="./output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"> </div>
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat-codex/akshat-codex/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat-codex/akshat-codex/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/akshat-codex/akshat-codex/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </picture> </div>
+> SYSTEM.LOG
+[✓] Backend systems
+[✓] AI-powered automation
+[✓] Cloud infrastructure
+[✓] Distributed systems
+[✓] Continuous learning
+
+[ STATUS ] :: BUILDING
+[ NEXT    ] :: SHIP SOMETHING BETTER
 <div align="center">
 ⚡ SYSTEM READY
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0B0F19"> <img src="https://img.shields.io/badge/FOCUS-BACKEND_%2B_AI-00F7FF?style=for-the-badge&labelColor=0B0F19"> <img src="https://img.shields.io/badge/BUILDING-SYSTEMS-00F7FF?style=for-the-badge&labelColor=0B0F19">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0B0F19" alt="Status"> <img src="https://img.shields.io/badge/FOCUS-BACKEND_%2B_AI-00F7FF?style=for-the-badge&labelColor=0B0F19" alt="Focus"> <img src="https://img.shields.io/badge/BUILDING-SYSTEMS-00F7FF?style=for-the-badge&labelColor=0B0F19" alt="Building">
 
 <br><br>
 

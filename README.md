@@ -2,7 +2,7 @@
 
 # ⚡ AKSHAT SRIVASTAVA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=BACKEND+DEVELOPER+%7C+AI+BUILDER;PYTHON+%7C+DJANGO+%7C+FASTAPI;AWS+%7C+DOCKER+%7C+KUBERNETES;BUILDING+INTELLIGENT+SYSTEMS." alt="Typing Animation">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=BACKEND+DEVELOPER;AI+BUILDER;PYTHON+%7C+DJANGO+%7C+FASTAPI;AWS+%7C+DOCKER+%7C+KUBERNETES;BUILDING+INTELLIGENT+SYSTEMS." alt="Typing Animation">
 
 <br>
 
@@ -31,7 +31,7 @@
 │                                                              │
 │  NAME        :: Akshat Srivastava                            │
 │  ROLE        :: Backend Developer                            │
-│  SPECIALTY   :: AI • Backend • Cloud • Automation           │
+│  SPECIALTY   :: AI • Backend • Cloud • Automation            │
 │  LOCATION    :: India                                        │
 │                                                              │
 │  STATUS      :: ONLINE                                       │
@@ -140,22 +140,6 @@ Building intelligent software systems with a focus on:
 
 ---
 
-## `> GITHUB.ACTIVITY`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akshat-codex&show_icons=true&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&ring_color=00F7FF" alt="GitHub Stats">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-codex&layout=compact&hide_border=true&bg_color=0B0F19&title_color=00F7FF&text_color=FFFFFF" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=akshat-codex&hide_border=true&background=0B0F19&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak">
-
-</div>
-
----
-
 ## `> CONTRIBUTION.MATRIX`
 
 <div align="center">
@@ -175,14 +159,18 @@ Building intelligent software systems with a focus on:
 <div align="center">
 
 <pre>
-[✓] Backend systems
-[✓] AI-powered automation
-[✓] Cloud infrastructure
-[✓] Distributed systems
-[✓] Continuous learning
-
-[ STATUS ] :: BUILDING
-[ NEXT   ] :: SHIP SOMETHING BETTER
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  [✓] Backend systems                                         │
+│  [✓] AI-powered automation                                   │
+│  [✓] Cloud infrastructure                                    │
+│  [✓] Distributed systems                                     │
+│  [✓] Continuous learning                                     │
+│                                                              │
+│  STATUS  :: BUILDING                                         │
+│  NEXT    :: SHIP SOMETHING BETTER                            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 </pre>
 
 </div>

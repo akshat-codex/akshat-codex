@@ -18,11 +18,38 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Transit palette: scarlet train, cobalt line-ink for contribution levels.
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#E21D2D&color_dots=#ebedf0,#c9d8ff,#8fb0ff,#2f6bff,#1a3fb0
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#E21D2D&color_dots=#18224d,#16306f,#1f55c9,#2f6bff,#8fb0ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Mount the dark snake on an enamel plate
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+          f = pathlib.Path("dist/github-contribution-grid-snake-dark.svg")
+          s = f.read_text()
+          s = re.sub(r"^<\?xml[^>]*>\s*", "", s)
+          vb = re.search(r'viewBox="([-\d.]+)[ ,]+([-\d.]+)[ ,]+([\d.]+)[ ,]+([\d.]+)"', s)
+          x, y, w, h = map(float, vb.groups())
+          # Crop to the 7-row grid (y 0..112) plus the snake's lane, centred;
+          # drops snk's lower progress strip that left an empty band on the plate.
+          y, h = -18.0, 148.0
+          s = s.replace(vb.group(0), f'viewBox="{x} {y} {w} {h}"', 1)
+          pad = 28
+          W, H = w + 2 * pad, h + 2 * pad
+          # turn the original root into a nested, positioned svg
+          s = re.sub(r"<svg\b([^>]*)>", lambda m: "<svg" + re.sub(r'\s(width|height|x|y)="[^"]*"', "", m.group(1)) + f' x="{pad}" y="{pad}" width="{w}" height="{h}">', s, count=1)
+          out = (
+              f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">'
+              f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="12" fill="#0B1230" stroke="#F4F1EA" stroke-opacity="0.8" stroke-width="2"/>'
+              + s + "</svg>"
+          )
+          f.write_text(out)
+          print("plated", f, W, H)
+          PY
 
       - name: Publish snake
         uses: peaceiris/actions-gh-pages@v4

@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-06T20:52:15.474Z",
+  "title": "Design System: akshat-codex",
+  "extensions": {
+    "colorMeta": {
+      "enamel-ground": {
+        "role": "neutral",
+        "displayName": "Enamel Ground",
+        "canonical": "#0B1230",
+        "tonalRamp": [
+          "oklch(15% 0.023 268)",
+          "oklch(25% 0.032 268)",
+          "oklch(35% 0.041 268)",
+          "oklch(45% 0.051 268)",
+          "oklch(55% 0.060 268)",
+          "oklch(65% 0.051 268)",
+          "oklch(80% 0.037 268)",
+          "oklch(95% 0.023 268)"
+        ]
+      },
+      "street-grid": {
+        "role": "neutral",
+        "displayName": "Street Grid",
+        "canonical": "#111C44",
+        "tonalRamp": [
+          "oklch(15% 0.027 268)",
+          "oklch(25% 0.038 268)",
+          "oklch(35% 0.048 268)",
+          "oklch(45% 0.059 268)",
+          "oklch(55% 0.070 268)",
+          "oklch(65% 0.059 268)",
+          "oklch(80% 0.043 268)",
+          "oklch(95% 0.027 268)"
+        ]
+      },
+      "river-blue": {
+        "role": "neutral",
+        "displayName": "River Blue",
+        "canonical": "#0E1B45",
+        "tonalRamp": [
+          "oklch(15% 0.027 266)",
+          "oklch(25% 0.038 266)",
+          "oklch(35% 0.048 266)",
+          "oklch(45% 0.059 266)",
+          "oklch(55% 0.070 266)",
+          "oklch(65% 0.059 266)",
+          "oklch(80% 0.043 266)",
+          "oklch(95% 0.027 266)"
+        ]
+      },
+      "porcelain": {
+        "role": "neutral",
+        "displayName": "Porcelain",
+        "canonical": "#F4F1EA",
+        "tonalRamp": [
+          "oklch(15% 0.005 85)",
+          "oklch(25% 0.006 85)",
+          "oklch(35% 0.008 85)",
+          "oklch(45% 0.010 85)",
+          "oklch(55% 0.012 85)",
+          "oklch(65% 0.010 85)",
+          "oklch(80% 0.007 85)",
+          "oklch(95% 0.005 85)"
+        ]
+      },
+      "porcelain-frame": {
+        "role": "neutral",
+        "displayName": "Porcelain Frame",
+        "canonical": "rgba(244,241,234,0.8)",
+        "tonalRamp": [
+          "oklch(15% 0.005 85)",
+          "oklch(25% 0.006 85)",
+          "oklch(35% 0.008 85)",
+          "oklch(45% 0.010 85)",
+          "oklch(55% 0.012 85)",
+          "oklch(65% 0.010 85)",
+          "oklch(80% 0.007 85)",
+          "oklch(95% 0.005 85)"
+        ]
+      },
+      "porcelain-hair": {
+        "role": "neutral",
+        "displayName": "Porcelain Hair",
+        "canonical": "rgba(244,241,234,0.22)",
+        "tonalRamp": [
+          "oklch(15% 0.005 85)",
+          "oklch(25% 0.006 85)",
+          "oklch(35% 0.008 85)",
+          "oklch(45% 0.010 85)",
+          "oklch(55% 0.012 85)",
+          "oklch(65% 0.010 85)",
+          "oklch(80% 0.007 85)",
+          "oklch(95% 0.005 85)"
+        ]
+      },
+      "signal-muted": {
+        "role": "neutral",
+        "displayName": "Signal Muted",
+        "canonical": "#AEB8D6",
+        "tonalRamp": [
+          "oklch(15% 0.019 270)",
+          "oklch(25% 0.027 270)",
+          "oklch(35% 0.035 270)",
+          "oklch(45% 0.042 270)",
+          "oklch(55% 0.050 270)",
+          "oklch(65% 0.042 270)",
+          "oklch(80% 0.031 270)",
+          "oklch(95% 0.019 270)"
+        ]
+      },
+      "backend-scarlet": {
+        "role": "primary",
+        "displayName": "Backend Scarlet",
+        "canonical": "#E21D2D",
+        "tonalRamp": [
+          "oklch(15% 0.084 25)",
+          "oklch(25% 0.118 25)",
+          "oklch(35% 0.152 25)",
+          "oklch(45% 0.186 25)",
+          "oklch(55% 0.220 25)",
+          "oklch(65% 0.186 25)",
+          "oklch(80% 0.135 25)",
+          "oklch(95% 0.084 25)"
+        ]
+      },
+      "cloud-cobalt": {
+        "role": "secondary",
+        "displayName": "Cloud Cobalt",
+        "canonical": "#2F6BFF",
+        "tonalRamp": [
+          "oklch(15% 0.084 264)",
+          "oklch(25% 0.118 264)",
+          "oklch(35% 0.152 264)",
+          "oklch(45% 0.186 264)",
+          "oklch(55% 0.220 264)",
+          "oklch(65% 0.186 264)",
+          "oklch(80% 0.135 264)",
+          "oklch(95% 0.084 264)"
+        ]
+      },
+      "data-amber": {
+        "role": "tertiary",
+        "displayName": "Data Amber",
+        "canonical": "#FFC20E",
+        "tonalRamp": [
+          "oklch(15% 0.065 84)",
+          "oklch(25% 0.091 84)",
+          "oklch(35% 0.117 84)",
+          "oklch(45% 0.144 84)",
+          "oklch(55% 0.170 84)",
+          "oklch(65% 0.144 84)",
+          "oklch(80% 0.104 84)",
+          "oklch(95% 0.065 84)"
+        ]
+      },
+      "ai-green": {
+        "role": "tertiary",
+        "displayName": "AI Green",
+        "canonical": "#22B14C",
+        "tonalRamp": [
+          "oklch(15% 0.069 147)",
+          "oklch(25% 0.097 147)",
+          "oklch(35% 0.124 147)",
+          "oklch(45% 0.152 147)",
+          "oklch(55% 0.180 147)",
+          "oklch(65% 0.152 147)",
+          "oklch(80% 0.110 147)",
+          "oklch(95% 0.069 147)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero name only, two stacked upper-case lines (66px on mobile)."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "One per panel; 56px/46px for the flagship route title; 24px for interchange names on the map."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "The role line under the hero name (22px mobile)."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "The single muted sentence under each panel headline (16px mobile)."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Station descriptions, facts rows, HOLD text; 14-19px, never below 13px."
+      },
+      "label": {
+        "displayName": "Station Label",
+        "purpose": "Upper-case station names, line chips, status lines; 14-17px, 1.2-2px tracking."
+      },
+      "button": {
+        "displayName": "Sign Label",
+        "purpose": "Button and sign text, upper-case."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "train-ease",
+        "value": "SMIL animateMotion, calcMode spline, keySplines 0.45 0 0.25 1, rotate auto",
+        "purpose": "Each train eases along its line, repeating indefinitely."
+      },
+      {
+        "name": "train-duration",
+        "value": "4.5s-7s",
+        "purpose": "A distinct duration per line, with a negative begin offset so trains load mid-route."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "@media (prefers-reduced-motion: reduce){.train{display:none}.parked{display:inline}}",
+        "purpose": "Moving trains hide; parked twins show at their termini."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "mobile",
+        "value": "600px",
+        "purpose": "<picture><source media=\"(max-width: 600px)\"> swaps in the 420px portrait SVG."
+      },
+      {
+        "name": "desktop-artboard",
+        "value": "1000px",
+        "purpose": "Desktop SVG width, scaled to the ~830px README column."
+      }
+    ],
+    "platform": "GitHub README: Markdown + sanitized HTML only; every visual is a self-hosted SVG with base64-embedded WOFF2 fonts and SMIL motion; one link per image (no image maps). Plates carry their own ground, so dark and light themes match."
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Scarlet boarding sign; one per action group.",
+      "html": "<a class=\"ds-btn ds-btn-primary\" href=\"#\">Board ai-lead-agent <svg width=\"18\" height=\"14\" viewBox=\"0 0 18 14\" aria-hidden=\"true\"><path d=\"M0 7 h16 m-6 -6 l6 6 l-6 6\" fill=\"none\" stroke=\"#F4F1EA\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;gap:28px;height:52px;padding:0 20px 0 22px;border-radius:4px;border:2px solid;font-family:'Barlow Semi Condensed','Barlow',sans-serif;font-weight:600;font-size:16px;letter-spacing:2px;color:#F4F1EA;text-transform:uppercase;text-decoration:none;cursor:pointer;transition:filter .15s,background .15s}.ds-btn-primary{background:#E21D2D;border-color:#E21D2D}.ds-btn-primary:hover{filter:brightness(1.08)}.ds-btn-primary:focus-visible{outline:2px solid #F4F1EA;outline-offset:3px}"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Enamel sign with porcelain stroke for secondary actions and contact links.",
+      "html": "<a class=\"ds-btn ds-btn-outline\" href=\"#\">All repositories <svg width=\"18\" height=\"14\" viewBox=\"0 0 18 14\" aria-hidden=\"true\"><path d=\"M0 7 h16 m-6 -6 l6 6 l-6 6\" fill=\"none\" stroke=\"#F4F1EA\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg></a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;gap:28px;height:52px;padding:0 20px 0 22px;border-radius:4px;border:2px solid;font-family:'Barlow Semi Condensed','Barlow',sans-serif;font-weight:600;font-size:16px;letter-spacing:2px;color:#F4F1EA;text-transform:uppercase;text-decoration:none;cursor:pointer;transition:filter .15s,background .15s}.ds-btn-outline{background:#0B1230;border-color:#F4F1EA}.ds-btn-outline:hover{background:#111C44}.ds-btn-outline:focus-visible{outline:2px solid #F4F1EA;outline-offset:3px}"
+    },
+    {
+      "name": "Plate",
+      "kind": "card",
+      "refersTo": "plate",
+      "description": "The only container: enamel ground, 2px porcelain frame, 12px corners.",
+      "html": "<div class=\"ds-plate\"><h2 class=\"ds-plate-h\">The network</h2><p class=\"ds-plate-lead\">Four lines. Every station is a tool in the kit.</p></div>",
+      "css": ".ds-plate{background:#0B1230;border:2px solid rgba(244,241,234,0.8);border-radius:12px;padding:46px;color:#F4F1EA;max-width:640px}.ds-plate-h{margin:0;font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:44px;letter-spacing:.3px}.ds-plate-lead{margin:8px 0 0;font-family:'Barlow',sans-serif;font-weight:500;font-size:18px;color:#AEB8D6}"
+    },
+    {
+      "name": "Line Chip",
+      "kind": "chip",
+      "refersTo": "line-chip",
+      "description": "Filled sign naming a line in its ink; enamel text on amber and green.",
+      "html": "<span class=\"ds-chip\" style=\"background:#E21D2D;color:#F4F1EA\">Backend line</span> <span class=\"ds-chip\" style=\"background:#2F6BFF;color:#F4F1EA\">Cloud line</span> <span class=\"ds-chip\" style=\"background:#FFC20E;color:#0B1230\">Data line</span> <span class=\"ds-chip\" style=\"background:#22B14C;color:#0B1230\">AI line</span>",
+      "css": ".ds-chip{display:inline-flex;align-items:center;width:128px;height:34px;padding:0 14px;box-sizing:border-box;border-radius:4px;font-family:'Barlow Semi Condensed','Barlow',sans-serif;font-weight:600;font-size:15px;letter-spacing:1.5px;text-transform:uppercase}"
+    },
+    {
+      "name": "Line with Stations",
+      "kind": "custom",
+      "description": "A line ink with porcelain stops, terminus, transfer ring and a moving train.",
+      "html": "<svg class=\"ds-line\" viewBox=\"0 0 420 80\" width=\"420\" height=\"80\" role=\"img\" aria-label=\"Backend line\"><path d=\"M20 50 H400\" stroke=\"#E21D2D\" stroke-width=\"7\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"20\" cy=\"50\" r=\"7\" fill=\"#F4F1EA\" stroke=\"#0B1230\" stroke-width=\"2.5\"/><circle cx=\"150\" cy=\"50\" r=\"5.5\" fill=\"#F4F1EA\" stroke=\"#0B1230\" stroke-width=\"2\"/><circle cx=\"280\" cy=\"50\" r=\"5.5\" fill=\"#F4F1EA\" stroke=\"#0B1230\" stroke-width=\"2\"/><circle cx=\"400\" cy=\"50\" r=\"8\" fill=\"#0B1230\" stroke=\"#F4F1EA\" stroke-width=\"3.5\"/><g style=\"font-family:'Barlow Semi Condensed',sans-serif;font-weight:600;font-size:15px;letter-spacing:1.2px\" fill=\"#F4F1EA\"><text x=\"14\" y=\"32\">PYTHON</text><text x=\"150\" y=\"32\" text-anchor=\"middle\">DJANGO</text><text x=\"280\" y=\"32\" text-anchor=\"middle\">CELERY</text><text x=\"406\" y=\"32\" text-anchor=\"end\">REDIS</text></g><g><rect x=\"-11\" y=\"-5\" width=\"22\" height=\"10\" rx=\"5\" fill=\"#F4F1EA\"/><rect x=\"-3\" y=\"-5\" width=\"6\" height=\"10\" fill=\"#E21D2D\"/><animateMotion path=\"M20 50 H400\" dur=\"6.5s\" repeatCount=\"indefinite\" calcMode=\"spline\" keyPoints=\"0;1\" keyTimes=\"0;1\" keySplines=\"0.45 0 0.25 1\"/></g></svg>",
+      "css": ".ds-line{background:#0B1230;border-radius:12px;display:block}"
+    },
+    {
+      "name": "Interchange and HOLD Siding",
+      "kind": "custom",
+      "description": "Gate ring on the scarlet main line; amber siding drops at 90, bends at 45, ends at a HOLD buffer.",
+      "html": "<svg class=\"ds-hold\" viewBox=\"0 0 420 170\" width=\"420\" height=\"170\" role=\"img\" aria-label=\"Hard-rule gate with HOLD siding\"><path d=\"M20 40 H400\" stroke=\"#E21D2D\" stroke-width=\"7\" stroke-linecap=\"round\" fill=\"none\"/><path d=\"M150 40 V90 L180 120 H300\" stroke=\"#FFC20E\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><path d=\"M300 108 V132\" stroke=\"#FFC20E\" stroke-width=\"6\" stroke-linecap=\"round\"/><circle cx=\"150\" cy=\"40\" r=\"13\" fill=\"#0B1230\" stroke=\"#F4F1EA\" stroke-width=\"6\"/><text x=\"316\" y=\"128\" fill=\"#FFC20E\" style=\"font-family:'Barlow Condensed',sans-serif;font-weight:700;font-size:24px;letter-spacing:1px\">HOLD</text><text x=\"180\" y=\"156\" fill=\"#AEB8D6\" style=\"font-family:'Barlow',sans-serif;font-size:14px\">Missing evidence stays unknown.</text></svg>",
+      "css": ".ds-hold{background:#0B1230;border-radius:12px;display:block}"
+    },
+    {
+      "name": "Status Line",
+      "kind": "custom",
+      "description": "Green service dot plus tracked label reporting network state.",
+      "html": "<div class=\"ds-status\"><span class=\"ds-status-dot\"></span>Good service</div>",
+      "css": ".ds-status{display:inline-flex;align-items:center;gap:10px;background:#0B1230;padding:12px 16px;border-radius:4px;color:#F4F1EA;font-family:'Barlow Semi Condensed','Barlow',sans-serif;font-weight:600;font-size:15px;letter-spacing:2px;text-transform:uppercase}.ds-status-dot{width:11px;height:11px;border-radius:50%;background:#22B14C}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Midnight Transit Diagram",
+    "overview": "The profile is a rail network printed on midnight-blue enamel. Each discipline is a line with its own ink, each tool is a station, transfers are rings, and the flagship project is a route read stage by stage. Everything a visitor sees is a plate in that one system: the hero map, the route, the network index, the standards board, the snake, even the buttons and the end-of-line footer.\n\nThe world is wayfinding, not decoration. Lines run straight and bend only at 45 or 90 degrees, labels are condensed upper-case station names, and colour carries meaning (which line) rather than mood. Density is that of a real transit map: many small labels, held legible by porcelain-on-midnight contrast and generous plate insets.\n\nThe platform shapes the system. A GitHub README is Markdown plus sanitized HTML: no CSS, no JavaScript, no image maps, one link per image. So every visual is a self-hosted SVG with its fonts embedded as base64 WOFF2 and its motion in SMIL, every action is its own linked plate, and mobile gets a separate 420-wide portrait SVG through `<picture media=\"(max-width: 600px)\">`. Plates carry their own enamel ground, so they read identically on GitHub's dark and light themes.",
+    "keyCharacteristics": [
+      "Enamel plates (midnight ground, 2px porcelain frame, 12px corners) as the only container.",
+      "Four line inks with fixed meanings: scarlet Backend, cobalt Cloud, amber Data, green AI.",
+      "Porcelain stations with a midnight keyline; interchanges and transfers as white rings with a dark core.",
+      "Barlow family only: Condensed for display, Semi Condensed for station labels and signs, Barlow for prose.",
+      "Trains in motion along the lines; parked trains at termini under reduced motion."
+    ],
+    "rules": [
+      {
+        "name": "The Line Ink Rule",
+        "body": "Scarlet, cobalt, amber and green belong to Backend, Cloud, Data and AI. A new line gets a new ink; an existing ink never takes on a second discipline. Scarlet's additional role is the primary action; amber's is HOLD.",
+        "section": "colors"
+      },
+      {
+        "name": "The Enamel Everywhere Rule",
+        "body": "Every image ships its own enamel ground and frame. Nothing relies on GitHub's page colour, so dark and light themes show the same plates.",
+        "section": "colors"
+      },
+      {
+        "name": "The Ink-on-Chip Rule",
+        "body": "Text on scarlet and cobalt chips is porcelain; text on amber and green chips is enamel ground, for legibility on the lighter inks.",
+        "section": "colors"
+      },
+      {
+        "name": "The Three Widths Rule",
+        "body": "Condensed for names, semi-condensed for signs, regular for sentences. No other family, and no system display face: every face is embedded in the SVG that uses it.",
+        "section": "typography"
+      },
+      {
+        "name": "The Printed Map Rule",
+        "body": "Nothing floats. Separation is by ink, keyline and stacking order, never by shadow or glow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** ship every visual as an SVG plate with its own enamel ground, 2px porcelain frame and 12px corners.",
+      "**Do** embed the Barlow faces each SVG uses as base64 WOFF2; never rely on installed fonts.",
+      "**Do** keep each line's ink fixed: scarlet Backend, cobalt Cloud, amber Data, green AI.",
+      "**Do** bend lines only at 45 or 90 degrees, with round caps and joins.",
+      "**Do** give every moving train a parked twin and the reduced-motion swap.",
+      "**Do** ship a 420px portrait variant for every full-width panel through `<picture media=\"(max-width: 600px)\">`, turning horizontal lines into vertical strips.",
+      "**Do** make each action its own linked image: one link per image, since GitHub strips image maps.",
+      "**Do** keep SVG text at 13px or larger."
+    ],
+    "donts": [
+      "**Don't** add shadows, glows or gradients to plates, lines or buttons.",
+      "**Don't** use a line ink for anything but its line, except scarlet for the primary action and amber for HOLD.",
+      "**Don't** draw arrows or icons with glyph characters; draw them as stroked paths.",
+      "**Don't** depend on CSS, JavaScript or third-party stat cards in the README; GitHub sanitizes the first two and the cards go down.",
+      "**Don't** set any face outside the Barlow family."
+    ]
+  }
+}
